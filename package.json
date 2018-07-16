@@ -1,0 +1,22 @@
+{
+  "name": "prueba-electron",
+  "version": "1.0.0",
+  "description": "electron app test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brayanhenao/electron-test.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Brayan Henao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brayanhenao/electron-test/issues"
+  },
+  "homepage": "https://github.com/brayanhenao/electron-test#readme"
+}
